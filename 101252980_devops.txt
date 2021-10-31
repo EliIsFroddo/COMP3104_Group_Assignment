@@ -2,3 +2,7 @@ There will be 10 quizzes and the best 8 out of 10 quizzes will be used to determ
 your grade
 COMP 3104 will provide a hands-on experience through the
 implementation of tried, tested and true DevOps technologies
+Using DevOps practices effectively will allow for a process predicated on ease to
+ship code to Production servers, apply hot-fixes, catch errors before they produce
+some sort of unintended behavior and keep transparency & communication
+heightened across all teams
