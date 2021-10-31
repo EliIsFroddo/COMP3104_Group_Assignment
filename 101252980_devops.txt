@@ -1,2 +1,4 @@
 There will be 10 quizzes and the best 8 out of 10 quizzes will be used to determine
 your grade
+COMP 3104 will provide a hands-on experience through the
+implementation of tried, tested and true DevOps technologies
