@@ -1,0 +1,2 @@
+Importance of learning DevOps
+Faster Resposiveness to customer needs : With DevOps, a team can react to change requests from customers more efficiently.
