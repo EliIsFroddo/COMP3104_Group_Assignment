@@ -1,2 +1,5 @@
 Importance of learning DevOps
-Faster Resposiveness to customer needs : With DevOps, a team can react to change requests from customers more efficiently.
+Higher Speed and Quality of Product Releases : DevOps speeds up product release by introducing continuous delivery, encourage faster feedback, and allowing developers to fix bugs in the system in the early stages
+Faster Resposiveness to Customer Needs : With DevOps, a team can react to change requests from customers more efficiently. 
+Better Working Environment : Devops principles and practices leads to better communication between teams. 
+Optimzes the Entire Business : The biggest advantage of DevOps is the insight it provides
