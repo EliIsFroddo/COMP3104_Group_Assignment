@@ -6,3 +6,4 @@ Using DevOps practices effectively will allow for a process predicated on ease t
 ship code to Production servers, apply hot-fixes, catch errors before they produce
 some sort of unintended behavior and keep transparency & communication
 heightened across all teams
+This course is designed to better prepare professionals entering the IT field.
