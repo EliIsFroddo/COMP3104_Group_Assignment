@@ -1,2 +1,3 @@
 Allows developers to have a clear process during a project
 The SDLC detects flaws early on so that their project can be completed on time and provides the best result possible
+SDLC allows developers to analyze the requirements. It helps in reducing unnecessary costs during development
