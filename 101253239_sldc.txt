@@ -1,1 +1,2 @@
 Importance of learning DevOps
+Higher Speed and Quality of Product Releases : DevOps speeds up product release by introducing continuous delivery, encourage faster feedback, and allowing developers to fix bugs in the system in the early stages
